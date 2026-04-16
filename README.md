@@ -115,7 +115,7 @@ Code: `agent/core.py → stream_agent_response()` (messages construction)
 ## Project structure
 
 ```
-analyst-ai/
+Lumi/
 ├── app.py                  # Streamlit UI and session management
 ├── agent/
 │   ├── core.py             # Query router + streaming response pipeline
@@ -135,7 +135,7 @@ analyst-ai/
 **1. Clone and install dependencies**
 ```bash
 git clone <repo-url>
-cd analyst-ai
+cd Lumi
 pip install -r requirements.txt
 ```
 
