@@ -1,1 +1,1 @@
-# Lumi
+# Lumi - AI chatbot to help you reserach, Analyze documents and help you in every possible way.
